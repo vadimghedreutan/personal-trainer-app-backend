@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ghedrik:q1w2e3@personaltrainer-yskif.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "q1w2e3token"
+}
